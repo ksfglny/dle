@@ -1,0 +1,4 @@
+jack,image/ez.jpg
+rose,image/an.jpg
+tom,image/tm.jpg
+jerry,image/ns.jpg
